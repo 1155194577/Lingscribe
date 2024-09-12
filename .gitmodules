@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/1155194577/nextJs_orange.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/1155194577/nodejs_firebase.git
